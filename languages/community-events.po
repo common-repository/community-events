@@ -1,0 +1,916 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Community Events\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-12 19:36-0500\n"
+"PO-Revision-Date: 2013-10-12 19:37-0500\n"
+"Last-Translator: Yannick Lefebvre <ylefebvre@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../community-events.php:116
+msgid "Add new event"
+msgstr ""
+
+#: ../community-events.php:117
+#: ../community-events.php:1066
+#: ../community-events.php:3022
+#: ../community-events.php:3099
+msgid "Event Name"
+msgstr ""
+
+#: ../community-events.php:118
+#: ../community-events.php:1071
+#: ../community-events.php:3023
+#: ../community-events.php:3102
+msgid "Event Category"
+msgstr ""
+
+#: ../community-events.php:119
+#: ../community-events.php:3024
+#: ../community-events.php:3119
+msgid "Event Venue"
+msgstr ""
+
+#: ../community-events.php:120
+#: ../community-events.php:1080
+#: ../community-events.php:3025
+#: ../community-events.php:3174
+msgid "Event Description"
+msgstr ""
+
+#: ../community-events.php:121
+#: ../community-events.php:1084
+#: ../community-events.php:1500
+#: ../community-events.php:3026
+#: ../community-events.php:3177
+msgid "Event Web Address"
+msgstr ""
+
+#: ../community-events.php:122
+#: ../community-events.php:3027
+#: ../community-events.php:3180
+msgid "Event Ticket Purchase Link"
+msgstr ""
+
+#: ../community-events.php:123
+#: ../community-events.php:1093
+#: ../community-events.php:3028
+#: ../community-events.php:3183
+msgid "Event Start Date"
+msgstr ""
+
+#: ../community-events.php:124
+#: ../community-events.php:1102
+#: ../community-events.php:3195
+msgid "Event Time"
+msgstr ""
+
+#: ../community-events.php:125
+#: ../community-events.php:1112
+#: ../community-events.php:3299
+msgid "Add Event"
+msgstr ""
+
+#: ../community-events.php:126
+#: ../community-events.php:1098
+#: ../community-events.php:3029
+#: ../community-events.php:3237
+msgid "Event End Date"
+msgstr ""
+
+#: ../community-events.php:138
+msgid "Community Events Calendar RSS Feed"
+msgstr ""
+
+#: ../community-events.php:139
+msgid "This is a default description for the RSS Feed"
+msgstr ""
+
+#: ../community-events.php:142
+#: ../community-events.php:1116
+#: ../community-events.php:3300
+msgid "Update Event"
+msgstr ""
+
+#: ../community-events.php:143
+#: ../community-events.php:1125
+#: ../community-events.php:3152
+msgid "New Venue Name"
+msgstr ""
+
+#: ../community-events.php:144
+#: ../community-events.php:1129
+#: ../community-events.php:3155
+msgid "New Venue Address"
+msgstr ""
+
+#: ../community-events.php:145
+#: ../community-events.php:1134
+#: ../community-events.php:3158
+msgid "New Venue City"
+msgstr ""
+
+#: ../community-events.php:146
+#: ../community-events.php:1138
+#: ../community-events.php:3161
+msgid "New Venue Zip Code"
+msgstr ""
+
+#: ../community-events.php:147
+#: ../community-events.php:1143
+#: ../community-events.php:3164
+msgid "New Venue Phone"
+msgstr ""
+
+#: ../community-events.php:148
+#: ../community-events.php:1147
+#: ../community-events.php:3167
+msgid "New Venue E-mail"
+msgstr ""
+
+#: ../community-events.php:149
+#: ../community-events.php:1152
+#: ../community-events.php:3170
+msgid "New Venue URL"
+msgstr ""
+
+#: ../community-events.php:152
+#: ../community-events.php:1107
+#: ../community-events.php:3030
+#: ../community-events.php:3245
+msgid "Event End Time"
+msgstr ""
+
+#: ../community-events.php:317
+msgid "Community Events General Options"
+msgstr ""
+
+#: ../community-events.php:318
+#: ../community-events.php:370
+msgid "Community Events - Event Types"
+msgstr ""
+
+#: ../community-events.php:318
+msgid "Event Types"
+msgstr ""
+
+#: ../community-events.php:319
+#: ../community-events.php:396
+msgid "Community Events - Venues"
+msgstr ""
+
+#: ../community-events.php:319
+msgid "Venues"
+msgstr ""
+
+#: ../community-events.php:320
+#: ../community-events.php:443
+msgid "Community Events - Events"
+msgstr ""
+
+#: ../community-events.php:320
+msgid "Events"
+msgstr ""
+
+#: ../community-events.php:321
+msgid "Community Events - Stylesheet Editor"
+msgstr ""
+
+#: ../community-events.php:321
+msgid "Stylesheet"
+msgstr ""
+
+#: ../community-events.php:339
+msgid "Usage Instructions"
+msgstr ""
+
+#: ../community-events.php:340
+msgid "General Configuration"
+msgstr ""
+
+#: ../community-events.php:341
+msgid "Event User Submission"
+msgstr ""
+
+#: ../community-events.php:342
+msgid "RSS Feed Generation"
+msgstr ""
+
+#: ../community-events.php:343
+#: ../community-events.php:345
+#: ../community-events.php:348
+#: ../community-events.php:350
+msgid "Save"
+msgstr ""
+
+#: ../community-events.php:344
+msgid "Event Types Editor"
+msgstr ""
+
+#: ../community-events.php:346
+msgid "Venues Editor"
+msgstr ""
+
+#: ../community-events.php:347
+msgid "Venues Importer"
+msgstr ""
+
+#: ../community-events.php:349
+msgid "Events Editor"
+msgstr ""
+
+#: ../community-events.php:351
+msgid "Stylesheet Editor"
+msgstr ""
+
+#: ../community-events.php:362
+msgid "Community Events General Settings"
+msgstr ""
+
+#: ../community-events.php:366
+msgid "Community Events Updated"
+msgstr ""
+
+#: ../community-events.php:385
+msgid "Category Deleted"
+msgstr ""
+
+#: ../community-events.php:390
+msgid "Inserted New Category"
+msgstr ""
+
+#: ../community-events.php:392
+msgid "Category Updated"
+msgstr ""
+
+#: ../community-events.php:411
+msgid "Venue Deleted"
+msgstr ""
+
+#: ../community-events.php:423
+msgid "Inserted New Venue"
+msgstr ""
+
+#: ../community-events.php:427
+msgid "Venue Updated"
+msgstr ""
+
+#: ../community-events.php:431
+msgid "Invalid column count for link"
+msgstr ""
+
+#: ../community-events.php:435
+msgid "row(s) found"
+msgstr ""
+
+#: ../community-events.php:435
+msgid "link(s) imported successfully"
+msgstr ""
+
+#: ../community-events.php:458
+msgid "Event Deleted"
+msgstr ""
+
+#: ../community-events.php:463
+msgid "Inserted New Event"
+msgstr ""
+
+#: ../community-events.php:465
+msgid "Event Updated"
+msgstr ""
+
+#: ../community-events.php:469
+msgid "Community Events - Stylesheet"
+msgstr ""
+
+#: ../community-events.php:473
+msgid "Stylesheet updated"
+msgstr ""
+
+#: ../community-events.php:475
+msgid "Stylesheet reset to original state"
+msgstr ""
+
+#: ../community-events.php:536
+#: ../community-events.php:575
+#: ../community-events.php:617
+#: ../community-events.php:734
+#: ../community-events.php:817
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ../community-events.php:921
+#: ../community-events.php:1216
+#: ../community-events.php:1314
+msgid "Name"
+msgstr ""
+
+#: ../community-events.php:922
+msgid "Date(s)"
+msgstr ""
+
+#: ../community-events.php:923
+#: ../community-events.php:1513
+msgid "Time"
+msgstr ""
+
+#: ../community-events.php:924
+msgid "Published"
+msgstr ""
+
+#: ../community-events.php:944
+#, php-format
+msgid ""
+"You are about to delete the event '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: ../community-events.php:950
+msgid "No events found"
+msgstr ""
+
+#: ../community-events.php:950
+msgid " to moderate"
+msgstr ""
+
+#: ../community-events.php:957
+msgid "Previous page of events"
+msgstr ""
+
+#: ../community-events.php:960
+msgid "Next page of events"
+msgstr ""
+
+#: ../community-events.php:972
+msgid "Functionality"
+msgstr ""
+
+#: ../community-events.php:973
+msgid "Code to place in Wordpress page to activate"
+msgstr ""
+
+#: ../community-events.php:977
+msgid "7-day event view with optional outlook"
+msgstr ""
+
+#: ../community-events.php:981
+msgid "Full schedule table"
+msgstr ""
+
+#: ../community-events.php:985
+msgid "Event submission form"
+msgstr ""
+
+#: ../community-events.php:998
+msgid "Full Schedule URL"
+msgstr ""
+
+#: ../community-events.php:1002
+msgid "Event submission form URL"
+msgstr ""
+
+#: ../community-events.php:1006
+msgid "Show outlook view in 7-day view"
+msgstr ""
+
+#: ../community-events.php:1009
+msgid "Default to outview view when displayed"
+msgstr ""
+
+#: ../community-events.php:1013
+msgid "Show search box in 7-day view"
+msgstr ""
+
+#: ../community-events.php:1016
+msgid "Display Fields to enter event end time"
+msgstr ""
+
+#: ../community-events.php:1020
+msgid "Number of events per page in Full View"
+msgstr ""
+
+#: ../community-events.php:1023
+msgid "Max number of events per day in 7-day view"
+msgstr ""
+
+#: ../community-events.php:1027
+msgid "Max Number of days in Full View"
+msgstr ""
+
+#: ../community-events.php:1040
+msgid "Require login to display form"
+msgstr ""
+
+#: ../community-events.php:1043
+msgid "Send e-mail when new event is submitted"
+msgstr ""
+
+#: ../community-events.php:1047
+msgid "Wait for validation before displaying user events"
+msgstr ""
+
+#: ../community-events.php:1050
+msgid "Display captcha"
+msgstr ""
+
+#: ../community-events.php:1054
+msgid "Store submitter user name (if available)"
+msgstr ""
+
+#: ../community-events.php:1057
+msgid "Allow users to edit their events"
+msgstr ""
+
+#: ../community-events.php:1061
+msgid "Add new event label"
+msgstr ""
+
+#: ../community-events.php:1062
+#: ../community-events.php:3087
+msgid "Add New Event"
+msgstr ""
+
+#: ../community-events.php:1065
+msgid "Event Name Label"
+msgstr ""
+
+#: ../community-events.php:1070
+msgid "Event Category Label"
+msgstr ""
+
+#: ../community-events.php:1074
+#: ../community-events.php:1075
+msgid "Event Venue Label"
+msgstr ""
+
+#: ../community-events.php:1079
+msgid "Event Description Label"
+msgstr ""
+
+#: ../community-events.php:1083
+msgid "Event Web Address Label"
+msgstr ""
+
+#: ../community-events.php:1088
+#: ../community-events.php:1089
+msgid "Event Ticket Purchase Link Label"
+msgstr ""
+
+#: ../community-events.php:1092
+msgid "Event Start Date Label"
+msgstr ""
+
+#: ../community-events.php:1097
+msgid "Event End Date Label"
+msgstr ""
+
+#: ../community-events.php:1101
+msgid "Event Time Label"
+msgstr ""
+
+#: ../community-events.php:1106
+msgid "Event End Time Label"
+msgstr ""
+
+#: ../community-events.php:1111
+msgid "Add Event Button Label"
+msgstr ""
+
+#: ../community-events.php:1115
+msgid "Update Event Button Label"
+msgstr ""
+
+#: ../community-events.php:1120
+msgid "Allow users to submit new venues"
+msgstr ""
+
+#: ../community-events.php:1124
+msgid "New Venue Name Label"
+msgstr ""
+
+#: ../community-events.php:1128
+msgid "New Venue Address Label"
+msgstr ""
+
+#: ../community-events.php:1133
+msgid "New Venue City Label"
+msgstr ""
+
+#: ../community-events.php:1137
+msgid "New Venue Zip Code Label"
+msgstr ""
+
+#: ../community-events.php:1142
+msgid "New Venue Phone Label"
+msgstr ""
+
+#: ../community-events.php:1146
+msgid "New Venue E-mail Label"
+msgstr ""
+
+#: ../community-events.php:1151
+msgid "New Venue URL Label"
+msgstr ""
+
+#: ../community-events.php:1165
+msgid "Add Event RSS Feed to page header"
+msgstr ""
+
+#: ../community-events.php:1169
+msgid "RSS Feed Title"
+msgstr ""
+
+#: ../community-events.php:1173
+msgid "RSS Feed Description"
+msgstr ""
+
+#: ../community-events.php:1177
+msgid "RSS Feed Target Address"
+msgstr ""
+
+#: ../community-events.php:1188
+msgid "Save Settings"
+msgstr ""
+
+#: ../community-events.php:1203
+msgid "Editing Category #"
+msgstr ""
+
+#: ../community-events.php:1215
+#: ../community-events.php:1313
+msgid "ID"
+msgstr ""
+
+#: ../community-events.php:1217
+#: ../community-events.php:1315
+msgid "Items"
+msgstr ""
+
+#: ../community-events.php:1231
+#, php-format
+msgid ""
+"You are about to delete this category '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: ../community-events.php:1242
+msgid "Categories can only be deleted when they do not have any associated events"
+msgstr ""
+
+#: ../community-events.php:1255
+#: ../community-events.php:1371
+#: ../community-events.php:1679
+msgid "Update &raquo;"
+msgstr ""
+
+#: ../community-events.php:1257
+msgid "Insert New Category &raquo;"
+msgstr ""
+
+#: ../community-events.php:1272
+msgid "Editing Venue #"
+msgstr ""
+
+#: ../community-events.php:1276
+msgid "Venue Name"
+msgstr ""
+
+#: ../community-events.php:1280
+msgid "Venue Address"
+msgstr ""
+
+#: ../community-events.php:1284
+msgid "Venue City"
+msgstr ""
+
+#: ../community-events.php:1288
+msgid "Venue Zip Code"
+msgstr ""
+
+#: ../community-events.php:1292
+msgid "Venue Phone"
+msgstr ""
+
+#: ../community-events.php:1296
+msgid "Venue E-mail"
+msgstr ""
+
+#: ../community-events.php:1300
+msgid "Venue URL"
+msgstr ""
+
+#: ../community-events.php:1329
+#, php-format
+msgid ""
+"You are about to delete this venue '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: ../community-events.php:1341
+msgid "Venues can only be deleted when they do not have any associated events"
+msgstr ""
+
+#: ../community-events.php:1353
+msgid "Allows for venues to be added in batch in Community Events. CSV file needs to follow template for column layout."
+msgstr ""
+
+#: ../community-events.php:1353
+msgid "CSV file to upload to import venues"
+msgstr ""
+
+#: ../community-events.php:1353
+msgid "file template"
+msgstr ""
+
+#: ../community-events.php:1355
+msgid "Import Venues"
+msgstr ""
+
+#: ../community-events.php:1358
+msgid "First row contains column headers"
+msgstr ""
+
+#: ../community-events.php:1373
+msgid "Insert New Venue &raquo;"
+msgstr ""
+
+#: ../community-events.php:1413
+#: ../community-events.php:3342
+msgid "End date must be equal or later than start date"
+msgstr ""
+
+#: ../community-events.php:1455
+msgid "Editing Item #"
+msgstr ""
+
+#: ../community-events.php:1464
+#: ../community-events.php:1763
+#: ../community-events.php:1912
+#: ../community-events.php:2076
+#: ../community-events.php:2459
+#: ../community-events.php:2674
+msgid "Category"
+msgstr ""
+
+#: ../community-events.php:1480
+#: ../community-events.php:2448
+msgid "Venue"
+msgstr ""
+
+#: ../community-events.php:1496
+msgid "Description"
+msgstr ""
+
+#: ../community-events.php:1504
+msgid "Event Ticket Purchase Web Address"
+msgstr ""
+
+#: ../community-events.php:1508
+msgid "Start Date"
+msgstr ""
+
+#: ../community-events.php:1515
+msgid "Start Time"
+msgstr ""
+
+#: ../community-events.php:1543
+#: ../community-events.php:1577
+#: ../community-events.php:3225
+#: ../community-events.php:3275
+msgid "AM"
+msgstr ""
+
+#: ../community-events.php:1544
+#: ../community-events.php:1578
+#: ../community-events.php:3232
+#: ../community-events.php:3282
+msgid "PM"
+msgstr ""
+
+#: ../community-events.php:1550
+msgid "End Time"
+msgstr ""
+
+#: ../community-events.php:1584
+msgid "End Date"
+msgstr ""
+
+#: ../community-events.php:1588
+msgid "Event Submitter"
+msgstr ""
+
+#: ../community-events.php:1592
+msgid "Event Click Count"
+msgstr ""
+
+#: ../community-events.php:1599
+msgid "Event Management"
+msgstr ""
+
+#: ../community-events.php:1599
+msgid "Moderation"
+msgstr ""
+
+#: ../community-events.php:1599
+msgid "Approve Selected"
+msgstr ""
+
+#: ../community-events.php:1627
+#: ../community-events.php:1637
+#: ../community-events.php:1644
+#: ../community-events.php:1652
+#: ../community-events.php:1663
+#: ../community-events.php:2190
+msgid "Loading data, please wait..."
+msgstr ""
+
+#: ../community-events.php:1681
+msgid "Insert New Event &raquo;"
+msgstr ""
+
+#: ../community-events.php:1692
+msgid "If the stylesheet editor is empty after upgrading, reset to the default stylesheet using the button below or copy/paste your backup stylesheet into the editor."
+msgstr ""
+
+#: ../community-events.php:1697
+#: ../community-events.php:2365
+msgid "Submit"
+msgstr ""
+
+#: ../community-events.php:1697
+msgid "Reset to default"
+msgstr ""
+
+#: ../community-events.php:1717
+msgid "Community Events Calendar Feed"
+msgstr ""
+
+#: ../community-events.php:1789
+#: ../community-events.php:1931
+#: ../community-events.php:2095
+#: ../community-events.php:2695
+msgid "Edit"
+msgstr ""
+
+#: ../community-events.php:1834
+msgid "See all events for"
+msgstr ""
+
+#: ../community-events.php:1983
+msgid "See more events for that day"
+msgstr ""
+
+#: ../community-events.php:1987
+msgid "See more events for this day"
+msgstr ""
+
+#: ../community-events.php:1994
+msgid "No events for this date"
+msgstr ""
+
+#: ../community-events.php:1998
+#: ../community-events.php:2149
+msgid "Select a date"
+msgstr ""
+
+#: ../community-events.php:1999
+#: ../community-events.php:2150
+msgid "Go"
+msgstr ""
+
+#: ../community-events.php:2063
+#: ../community-events.php:2067
+msgid "See more"
+msgstr ""
+
+#: ../community-events.php:2141
+#: ../community-events.php:2718
+msgid "Ticket Link"
+msgstr ""
+
+#: ../community-events.php:2146
+msgid "No events"
+msgstr ""
+
+#: ../community-events.php:2162
+msgid "Select date first"
+msgstr ""
+
+#: ../community-events.php:2227
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../community-events.php:2254
+msgid "Search Events"
+msgstr ""
+
+#: ../community-events.php:2274
+msgid "Full Schedule"
+msgstr ""
+
+#: ../community-events.php:2288
+#: ../community-events.php:2477
+msgid "Submit your own event"
+msgstr ""
+
+#: ../community-events.php:2366
+#: ../community-events.php:2367
+msgid "Advanced Search"
+msgstr ""
+
+#: ../community-events.php:2368
+msgid "Filter by Venue"
+msgstr ""
+
+#: ../community-events.php:2387
+msgid "Filter by Category"
+msgstr ""
+
+#: ../community-events.php:2408
+msgid "Filter by Location"
+msgstr ""
+
+#: ../community-events.php:2429
+msgid "Filter by Date"
+msgstr ""
+
+#: ../community-events.php:2442
+msgid "Search Results for"
+msgstr ""
+
+#: ../community-events.php:2444
+msgid "Search String"
+msgstr ""
+
+#: ../community-events.php:2470
+msgid "location"
+msgstr ""
+
+#: ../community-events.php:2479
+msgid "See full schedule"
+msgstr ""
+
+#: ../community-events.php:2662
+msgid "Venue / Location"
+msgstr ""
+
+#: ../community-events.php:2755
+#: ../community-events.php:2760
+msgid "Previous"
+msgstr ""
+
+#: ../community-events.php:2808
+#: ../community-events.php:2813
+msgid "Next"
+msgstr ""
+
+#: ../community-events.php:2873
+msgid "Confirm code not given"
+msgstr ""
+
+#: ../community-events.php:2883
+msgid "Captcha code is wrong"
+msgstr ""
+
+#: ../community-events.php:2888
+msgid "Captcha code is only valid for 5 minutes"
+msgstr ""
+
+#: ../community-events.php:2898
+msgid "No captcha cookie given. Make sure cookies are enabled"
+msgstr ""
+
+#: ../community-events.php:3021
+msgid "A user submitted a new event to your Wordpress Community Events database."
+msgstr ""
+
+#: ../community-events.php:3030
+msgid "Event Start Time"
+msgstr ""
+
+#: ../community-events.php:3035
+msgid "Message Generated by"
+msgstr ""
+
+#: ../community-events.php:3040
+msgid "Thank you for your submission"
+msgstr ""
+
+#: ../community-events.php:3131
+msgid "Create new venue"
+msgstr ""
+
+#: ../community-events.php:3294
+msgid "Enter code from above image"
+msgstr ""
+
+
+
+
+
